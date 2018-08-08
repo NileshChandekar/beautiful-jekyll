@@ -2,21 +2,8 @@
 layout: post
 title: Docker Automation
 subtitle:Posted on August 09, 2018
-#gh-repo: daattali/beautiful-jekyll
-#gh-badge: [star, fork, follow]
 ---
 
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
 ~~~
